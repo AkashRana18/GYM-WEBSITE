@@ -1,0 +1,142 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/5595849.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+
+
+
+
+}
+
+.left {
+
+    display: inline-block;
+    color: white;
+    position: absolute;
+    left: 34px;
+    top: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+
+
+}
+
+.left img {
+    width: 40px;
+    padding-left: 50px;
+    padding-top: 9px;
+    filter: invert(90%);
+
+
+
+}
+
+.mid {
+    border-radius: 2px 7px 2px 7px;
+    width: 38%;
+    color: white;
+    padding: 11px 11px;
+    margin: 12px auto;
+}
+
+.mid a {
+    padding: 19px 13px;
+}
+
+.right {
+    /* border: 2px solid black; */
+    padding: 18px 0px 8px;
+    color: white;
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 34px;
+}
+
+.mid a {
+    text-decoration: none;
+    color: white;
+}
+
+.mid a:hover {
+    text-decoration: underline;
+    color: rgb(199, 190, 190);
+    color: grey;
+
+}
+
+#fit {
+    color: white;
+    margin: 0;
+    padding: 10px 11px 16px 12px;
+
+}
+
+#fit a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#fit a:hover {
+    color: rgba(214, 199, 227, 0.728);
+}
+
+.btn {
+    padding: 2px 3px 2px 3px;
+    margin: 2px 3px;
+    border: 1px solid black;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    color: white;
+    border: 4px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 200px;
+    font-size: 12px;
+
+}
+
+.form-group input {
+    font-family: 'IBM Plex Sans Hebrew', sans-serif;
+    border-radius: 8px;
+    border: 2px solid black;
+    padding: 8px 4px 8px 4px;
+    margin: 10px auto;
+    width: 400px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#btn {
+    font-size: 15px;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+#btn:hover {
+    background-color: white;
+    color: black;
+}
+
+#head {
+    color: rgb(21, 255, 0);
+}
+
+.container button {
+    display: block;
+    width: 400px;
+    background-color: black;
+    color: white;
+}
